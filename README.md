@@ -19,4 +19,5 @@ This specific project is focused entirely on **Kitui County malaria trends for t
 - **Visualization**: `matplotlib`
 
 ## Pipeline Output Sample
-*(Once you save your bar plot graph as an image, you can drop it here to showcase your results visually!)*
+<img width="3572" height="1771" alt="kitui_malaria_trends" src="https://github.com/user-attachments/assets/a6caf628-a897-4141-915f-2cd384b18454" />
+
